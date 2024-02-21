@@ -1,1 +1,1 @@
-time g++ -o main main.cpp -L ./lib -I ./include -lcrypto -lz -lws2_32 -lgdi32 ; ./main.exe
+time g++ -o main main.cpp -L ./lib -I ./include -lcrypto -lz -lws2_32 ; ./main.exe
