@@ -13,7 +13,10 @@ Imagine the possibilities:
 PCdraw is more than just a program; **it's a gateway to a world of boundless creativity**. Ditch the constraints of traditional tools and **embrace the freedom** offered by PCdraw. So, what are you waiting for? Download it today and **let your artistic journey begin!**
 
 # Dependencies
-this project depends on the Nodepp project: https://github.com/NodeppOficial/nodepp
+```bash
+nodepp:       https://github.com/NodeppOficial/nodepp
+nodepp-input: https://github.com/NodeppOficial/nodepp-input
+```
 
 # Usage
 - Windows: `time g++ -o main main.cpp -I ./include -lcrypto -lz -lws2_32 ; ./main.exe`
