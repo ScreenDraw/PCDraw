@@ -19,5 +19,7 @@ nodepp-input: https://github.com/NodeppOficial/nodepp-input
 ```
 
 # Usage
-- Windows: `time g++ -o main main.cpp -I ./include -lcrypto -lz -lws2_32 ; ./main.exe`
-- Linux:   `time g++ -o main main.cpp -I ./include -lcrypto -lz -lX11 -lXtst ; ./main`
+```bash
+🪟: time g++ -o main main.cpp -I ./include -lcrypto -lz -lws2_32 ; ./main.exe
+🐧: time g++ -o main main.cpp -I ./include -lcrypto -lz -lX11 -lXtst ; ./main
+```
